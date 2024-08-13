@@ -1,6 +1,6 @@
 # Employee Attrition Analysis
 
-## Problem Statement
+## Project Summary
 
 This dashboard helps the stakeholders understand their employees better. It allows stakeholders to know if their employees are satisfied with their workplace. Through analysing different metrics, they get to know their workforce, and therefore, the reason for attrition and how satisfied are their employees with them while working for them. It also lets them observe the contribution of employers distinguished by gender group.
 
